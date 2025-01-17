@@ -1,4 +1,9 @@
+const aboutPage = () => {
+  return (
+    <main>
+      <h1>About US</h1>
+    </main>
+  );
+};
 
-export default const aboutPage = () => {
-
-}
+export default aboutPage;
