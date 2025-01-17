@@ -21,4 +21,4 @@ const MainHeader = () => {
     </header>
   );
 };
-export default Header;
+export default MainHeader;
