@@ -3,6 +3,7 @@ import classes from './page.module.css';
 import MealsGrid from '@/components/meals/meals-grid';
 import { getMeals } from '@/lib/meals';
 import { Suspense } from 'react';
+import MealsLoadingPage from './loading-out';
 
 const Meals = async () => {
   const meals = await getMeals();
@@ -24,7 +25,7 @@ export default function MealsPage() {
         </p>
       </header>
       <main className={classes.main}>
-        <Suspense>
+        <Suspense fallback={MealsLoadingPage()}>
           <Meals />
         </Suspense>
       </main>
