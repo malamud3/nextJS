@@ -23,7 +23,7 @@ You can begin editing the application by modifying the `pages/index.js` file. Th
 Here are some images showcasing the project:
 
 <div style="display: flex; gap: 10px;">
-    <img src="./image-a.png" alt="Image A" style="width: 30%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
-    <img src="./image-b.png" alt="Image B" style="width: 30%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
-    <img src="./image-c.png" alt="Image C" style="width: 30%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <img src="./a.png" alt="Image A" style="width: 30%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <img src="./b.png" alt="Image B" style="width: 30%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <img src="./c.png" alt="Image C" style="width: 30%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
 </div>
