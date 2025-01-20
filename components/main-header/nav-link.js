@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import classes from './nav-link.module.css';
 
-const navLink = ({ href, children }) => {
+const NavLink = ({ href, children }) => {
   const path = usePathname();
 
   return (
@@ -21,4 +21,4 @@ const navLink = ({ href, children }) => {
   );
 };
 
-export default navLink;
+export default NavLink;
