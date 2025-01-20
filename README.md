@@ -1,6 +1,6 @@
 # Next.js Project
 
-This project is a web application built using Next.js, a React framework that enables server-side rendering and static site generation.Providing a solid foundation for building scalable and performant web applications. Additionally, it uses SQLite for database management and S3 for storage solutions.
+This project is a web application built using Next.js, a React framework that enables server-side rendering and static site generation. Providing a solid foundation for building scalable and performant web applications. Additionally, it uses SQLite for database management and S3 for storage solutions.
 
 ## Getting Started
 
@@ -18,17 +18,12 @@ Once the server is running, open [http://localhost:3000](http://localhost:3000) 
 
 You can begin editing the application by modifying the `pages/index.js` file. The page will automatically update as you make changes.
 
-## Learn More
+## Showcase
 
-To learn more about Next.js and its features, refer to the following resources:
+Here are some images showcasing the project:
 
-- [Next.js Documentation](https://nextjs.org/docs) - comprehensive documentation on Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive tutorial to help you get started with Next.js.
-
-You can also visit [the Next.js GitHub repository](https://github.com/vercel/next.js/) to provide feedback or contribute to the project.
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js application is through the [Vercel Platform](https://vercel.com/), created by the developers of Next.js.
-
-For more information on deploying your application, check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment).
+<div style="display: flex; gap: 10px;">
+    <img src="./image-a.png" alt="Image A" style="width: 30%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <img src="./image-b.png" alt="Image B" style="width: 30%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <img src="./image-c.png" alt="Image C" style="width: 30%; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+</div>
